@@ -28,5 +28,3 @@
 ### 🐍 GitHub Contribution Snake
 
 ![GitHub Snake Light](https://github.com/repo-ranger-source/repo-ranger-source/blob/gh-pages/github-snake.svg)
-![GitHub Snake Dark](https://github.com/repo-ranger-source/repo-ranger-source/blob/gh-pages/github-snake-dark.svg)
-![GitHub Snake Ocean](https://github.com/repo-ranger-source/repo-ranger-source/blob/gh-pages/ocean.gif)
