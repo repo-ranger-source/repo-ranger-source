@@ -1,16 +1,28 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20World%20!%20🌐&fontColor=blue&animation=twinkling&descAlign=35)
 
-<!--
-**repo-ranger-source/repo-ranger-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+### 🧑‍💻 Development & Scripting
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ SysAdmin
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
+![VMware](https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware)
+
+### 📈 Monitoring & Security
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=repo-ranger-source.repo-ranger-source)
+
+![Snake animation](https://github.com/thepiyushmalhotra/repo-ranger-source/blob/output/github-contribution-grid-snake.svg)
