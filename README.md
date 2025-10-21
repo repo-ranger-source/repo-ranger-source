@@ -25,4 +25,4 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=repo-ranger-source.repo-ranger-source)
 
-![Snake animation](https://github.com/thepiyushmalhotra/repo-ranger-source/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/repo-ranger-source/blob/output/github-contribution-grid-snake.svg)
