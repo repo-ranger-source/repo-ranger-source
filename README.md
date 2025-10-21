@@ -26,5 +26,4 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=repo-ranger-source.repo-ranger-source)
 
 ### 🐍 GitHub Contribution Snake
-
 ![GitHub Snake Light](https://github.com/repo-ranger-source/repo-ranger-source/blob/gh-pages/github-snake.svg)
