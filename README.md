@@ -17,6 +17,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
 ![VMware](https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberry-pi)
 
 ### 📈 Monitoring & Security
 ![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus)
